@@ -1,0 +1,6 @@
+.env
+.browser-profile/
+promos.db
+debug/
+__pycache__/
+.venv/
